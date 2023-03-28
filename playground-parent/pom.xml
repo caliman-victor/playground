@@ -11,5 +11,6 @@
     <module>playground-static</module>
     <module>playground-entities</module>
     <module>playground-service-discovery</module>
+    <module>playground-services</module>
   </modules>
 </project>
